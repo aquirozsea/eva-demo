@@ -1,0 +1,28 @@
+<resources>
+    <string name="app_name">DoctorReferrals</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+
+<!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="title_activity_search">Search</string>
+
+    <string-array name="specialties">
+        <item>Specialty</item>
+        <item>Ophtalmology</item>
+    </string-array>
+
+    <string-array name="subspecialties">
+        <item>Sub-specialty</item>
+        <item>Lasik</item>
+    </string-array>
+
+    <string-array name="insurance_carriers">
+        <item>Aetna</item>
+        <item>Blue Cross Blue Shield</item>
+        <item>Cigna</item>
+    </string-array>
+    <string name="title_activity_stats">Stats</string>
+    <string name="title_activity_profile">My Profile</string>
+
+</resources>
